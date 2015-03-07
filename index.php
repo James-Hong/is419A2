@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<meta http-equiv="refresh" content="0;url=index.html">
 <title>SB Admin 2</title>
-
+<script language="javascript">
+    window.location.href = "index.html"
+</script>
 </head>
 <body>
-Hello World
+Go to <a href="pages/index.html">index.html</a>
 </body>
 </html>
